@@ -1,0 +1,13 @@
+{
+  "name": "object-initializator-poc",
+  "version": "1.0.0",
+  "main": "app.ts",
+  "license": "MIT",
+  "scripts": {
+    "dev": "tsnd app.ts"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^1.0.0-pre.44",
+    "typescript": "^3.8.3"
+  }
+}
