@@ -28,6 +28,8 @@ const user1 = new User({age: 32, firstName: 'Pera', lastName: 'Peric'});
 const item1 = new Item('asdf', { name: 'item1' });
 
 console.log(user1);
+console.log(user1 instanceof User);
 user1.sayMyName();
 
 console.log(item1);
+console.log(item1 instanceof Item);
