@@ -1,5 +1,5 @@
 {
-  "name": "object-initializator-poc",
+  "name": "class-initializator-poc",
   "version": "1.0.0",
   "main": "app.ts",
   "license": "MIT",
